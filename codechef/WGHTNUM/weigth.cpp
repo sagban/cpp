@@ -7,6 +7,18 @@
 #include <cmath>
 using namespace std;
 
+long long int power(long long int a,long long int b)
+{
+    const unsigned long int M = 1000000007;
+    if(b==0)
+        return 1;
+    else if(b==1)
+        return a;
+    else if(b%2==0)
+        return power((a*a)%M,b/2);
+    else
+        return (power((a*a)%M,b/2)*a)%M;
+}
 
 int main(){
 
@@ -28,12 +40,12 @@ int main(){
                 count++;
             }
         }
-        unsigned long long int ans = count;
-        for(unsigned long long int p=1; p<=N-2; p++){
-            ans = (ans *10)%M;
-        }
+//        unsigned long long int ans = count;
+//        for(unsigned long long int p=1; p<=N-2; p++){
+//            ans = (ans *10)%M;
+//        }
         //double count = (double)count;
-        //unsigned long long int ans = (count * pow(10,N-2)) % M;
+        unsigned long long int ans = (count * power(10,N-2)) % M;
         cout<<ans<<endl;
 
     }

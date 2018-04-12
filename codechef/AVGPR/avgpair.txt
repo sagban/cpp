@@ -1,0 +1,18 @@
+You are given an integer sequence A with length N.
+
+Find the number of (unordered) pairs of elements such that the average of these two elements is also present in the sequence. Formally, find the number of pairs (i,j) such that 1≤i<j≤N and there is an index k (1≤k≤N) for which 2Ak=Ai+Aj holds.
+
+Input
+The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
+The first line of each test case contains a single integer N.
+The second line contains N space-separated integers A1,A2,…,AN.
+Output
+For each test case, print a single line containing one integer — the number of valid pairs (i,j).
+
+Constraints
+1≤T≤10
+1≤N≤105
+|Ai|≤103 for each valid i
+Subtasks
+Subtask #1 (30 points): 1≤N≤103
+Subtask #2 (70 points): 1≤N≤105

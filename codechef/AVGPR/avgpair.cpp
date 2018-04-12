@@ -10,24 +10,20 @@ using namespace std;
 int main(){
     int T;
     cin>>T;
-
     for(int p=0;p<T;p++){
         long N;
         cin>>N;
-        vector<int> A(N),table,my;
-        for(int j=0;j<N;j++){
-
+        vector<int> A(N),table;
+        for(long j=0;j<N;j++){
             cin>>A[j];
-            for(int k=0; k<j; k++){
-                my.push_back(A[j]+A[k]);
-            }
             table.push_back(2*A[j]);
         }
         sort(table.begin(),table.end());
-        int count =0;
-        for(int i=0;i<my.size();i++){
-
-            if(find(table.begin(), table.end(), my[i]) != table.end()) count++;
+        long count = 0;
+        for(long i=0;i<N;i++){
+            for(long k=i+1; k<N; k++){
+                if(find(table.begin(),table.end(),A[i]+A[k]) != table.end()) count++;
+            }
         }
         cout<<count<<endl;
 
