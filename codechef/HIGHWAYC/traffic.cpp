@@ -1,22 +1,16 @@
-//
-// Created by Sagar Bansal on 4/12/18.
-//
-
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
 #include <cmath>
-
 using namespace std;
 int main(){
-    int T;
+    long T;
     cin>>T;
     for(int p1=0;p1<T;p1++){
         int n, S, Y;
         cin>>n>>S>>Y;
-        vector<int> v(n),d(n),c(n);
-        vector<long> p(n);
+        vector<double> v(n),d(n),c(n);
+        vector<double> p(n);
         for(int j=0; j<n; j++){
             cin>>v[j];
         }
@@ -37,37 +31,62 @@ int main(){
 
         //time lost in waiting
         double wait=0.000000;
-        double time = 0.000000;
+        double time = walk + wait;
+        double appr = (double)Y/S;
 
         for(int i=0; i<n; i++){
 
-            walk += ((double)Y/S);
-            //check weather car is comming toward the chef
+            walk += (double)Y/S;
 
-            if( ((p[i]<=0 && d[i]==1) || (p[i]>=0 && d[i]==0)) && abs(p[i])>0.000001 ){
+            if(d[i]==1){
+                p[i] += time*v[i];
+                double dis = abs(p[i]);
 
+                if(p[i]<=0){
 
-                //time the car would take to reach postion = 0
-                p[i] = abs(p[i]);
+                    double carHit = dis/v[i];
 
-                p[i] -= (time*v[i]);
-                double carHit = (double)p[i]/v[i];
-                // if chef has enough time to pass the lane
-                if(carHit<=walk){
-                    wait += (((double)(p[i] + c[i])/v[i]));
+                    // if chef has enough time to pass the lane
+                    if((carHit<=appr) ){
+                        wait =wait+ (dis + c[i]+ 0.000001)/v[i];
+                    }
+                    time = walk + wait;
                 }
 
+                else if(dis<=c[i]){
+
+                    wait =wait+ (c[i] - dis + 0.000001)/v[i];
+                    time = walk + wait;
+                }
+                else{
+                    time = walk + wait;
+                }
             }
-            else if(abs(p[i])<0.000001){
-                wait += (0.000001-abs(p[i]))/v[i];
+
+            if(d[i]==0){
+                p[i] -= time*v[i];
+                double dis = abs(p[i]);
+                if(p[i]>=0){
+
+                    double carHit = dis/v[i];
+                    // if chef has enough time to pass the lane
+                    if(carHit<=appr){
+                        wait = wait + (dis + c[i]+ 0.000001)/v[i];
+                    }
+                    time = walk + wait;
+                }
+
+                else if(dis<=c[i]){
+                    wait = wait + (c[i] - dis + 0.000001)/v[i];
+                    time = walk + wait;
+                }
+                else{
+                    time = walk + wait;
+                }
             }
-            else{
-                wait += (double)c[i]/v[i];
-            }
-            time = walk + wait;
         }
 
-        printf("%f\n",time);
+        printf("%lf\n",time);
 
     }
 }

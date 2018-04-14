@@ -1,8 +1,12 @@
-Chef has to cross a highway with infinite length consisting of N parallel lanes. The width of each lane is Y. Between each pair of adjacent lanes, there is a divider with negligible width; at each divider and the side of the highway, Chef can wait for an arbitrarily long time to allow the cars to pass by and then continue crossing the highway. Since Chef is lazy, he wants to cross the highway while walking the minimum possible distance; therefore, he will only move in a straight line perpendicular to the highway. Chef walks with a constant velocity S.
+Chef has to cross a highway with infinite length consisting of N parallel lanes. The width of each lane is Y.
+Between each pair of adjacent lanes, there is a divider with negligible width; at each divider and the side of the highway,
+Chef can wait for an arbitrarily long time to allow the cars to pass by and then continue crossing the highway. Since Chef is lazy, he wants to cross the highway while walking the minimum possible distance;
+therefore, he will only move in a straight line perpendicular to the highway. Chef walks with a constant velocity S.
 
 There is exactly one car in each lane. Each car is as wide as a whole lane (so it covers the entire width of its lane), has a known length and travels with fixed velocity in either direction along the highway. For each i (1≤i≤N), the car in the i-th lane has velocity Vi and length Ci.
 
-Let's measure distances along the highway, i.e. all points which lie on the same line perpendicular to the highway have the same coordinate x. Chef's position is x=0; for each i (1≤i≤N), the initial position of the car in the i-th lane is Pi and the direction in which it's moving is Di. If Di=1, the car is moving in the positive direction (its position is increasing) and if Di=0, the car is moving in the negative direction (its position is decreasing).
+Let's measure distances along the highway, i.e. all points which lie on the same line perpendicular to the highway have the same coordinate x.
+Chef's position is x=0; for each i (1≤i≤N), the initial position of the car in the i-th lane is Pi and the direction in which it's moving is Di. If Di=1, the car is moving in the positive direction (its position is increasing) and if Di=0, the car is moving in the negative direction (its position is decreasing).
 
 The drivers on a highway don't expect anyone to be crossing it, so they drive carelessly and won't be able to apply brakes at any point in time.
 
