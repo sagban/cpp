@@ -10,7 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85bc7b33-ac24-48e4-bbc6-11d221d135dd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/codechef/AVGPR/input.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codechef/GOODPREF/input.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codechef/GOODPREF/small-input.in" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeJam18 QA/cubicUFO.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodeJam18 QA/cubicUFO.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codechef/AVGPR/avgpair.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/AVGPR/avgpair.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codechef/GOODPREF/prefix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/GOODPREF/prefix.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,10 +38,29 @@
         <option value="$PROJECT_DIR$/CodeJam16 QA/countingSheep/countingSheep.cpp" />
         <option value="$PROJECT_DIR$/CodeJam16 QA/revengeOfThePancake/revenge.cpp" />
         <option value="$PROJECT_DIR$/CodeJam17 QA/oversizedFlipper/oversizedFlipper.cpp" />
-        <option value="$PROJECT_DIR$/CodeJam18 QA/saveUniverse.cpp" />
-        <option value="$PROJECT_DIR$/CodeJam18 QA/cubicUFO.cpp" />
         <option value="$PROJECT_DIR$/CodeJam18 QA/input.in" />
+        <option value="$PROJECT_DIR$/CodeJam18 QA/saveUniverse.cpp" />
         <option value="$PROJECT_DIR$/CodeJam18 QA/troubleShort.cpp" />
+        <option value="$PROJECT_DIR$/CodeJam18 QA/cubicUFO.cpp" />
+        <option value="$PROJECT_DIR$/codechef/workers.cpp" />
+        <option value="$PROJECT_DIR$/codechef/weigth.cpp" />
+        <option value="$PROJECT_DIR$/codechef/avgpair.cpp" />
+        <option value="$PROJECT_DIR$/codechef/prefix.cpp" />
+        <option value="$PROJECT_DIR$/codechef/input.in" />
+        <option value="$PROJECT_DIR$/codechef/traffic.cpp" />
+        <option value="$PROJECT_DIR$/codechef/GOODPREF/prefix.txt" />
+        <option value="$PROJECT_DIR$/codechef/CHEFWORK/workers.txt" />
+        <option value="$PROJECT_DIR$/codechef/AVGPR/avgpair.txt" />
+        <option value="$PROJECT_DIR$/codechef/WGHTNUM/weight.txt" />
+        <option value="$PROJECT_DIR$/codechef/HIGHWAYC/traffic.txt" />
+        <option value="$PROJECT_DIR$/codechef/HIGHWAYC/output.out" />
+        <option value="$PROJECT_DIR$/codechef/HIGHWAYC/traffic.cpp" />
+        <option value="$PROJECT_DIR$/codechef/HIGHWAYC/input.in" />
+        <option value="$PROJECT_DIR$/codechef/GOODPREF/small-input.in" />
+        <option value="$PROJECT_DIR$/codechef/GOODPREF/input.in" />
+        <option value="$PROJECT_DIR$/codechef/GOODPREF/prefix.cpp" />
+        <option value="$PROJECT_DIR$/codechef/AVGPR/input.in" />
+        <option value="$PROJECT_DIR$/codechef/AVGPR/avgpair.cpp" />
       </list>
     </option>
   </component>
@@ -50,7 +75,9 @@
     <option name="width" value="1440" />
     <option name="height" value="822" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -66,7 +93,7 @@
             <path>
               <item name="cpp" type="b2602c69:ProjectViewProjectNode" />
               <item name="cpp" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeJam18 QA" type="462c0819:PsiDirectoryNode" />
+              <item name="codechef" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -83,6 +110,13 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/codechef/AVGPR" />
+      <recent name="$PROJECT_DIR$/codechef/GOODPREF" />
+      <recent name="$PROJECT_DIR$/codechef/HIGHWAYC" />
+      <recent name="$PROJECT_DIR$/codechef/CHEFWORK" />
+      <recent name="$PROJECT_DIR$/codechef/WGHTNUM" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -110,20 +144,36 @@
       <option name="presentableId" value="Default" />
       <updated>1523011541934</updated>
       <workItem from="1523011543351" duration="29582000" />
-      <workItem from="1523073598101" duration="5268000" />
+      <workItem from="1523073598101" duration="7618000" />
+      <workItem from="1523459477533" duration="22232000" />
+      <workItem from="1523512339973" duration="2212000" />
+      <workItem from="1523531888926" duration="30412000" />
+      <workItem from="1523686250690" duration="21277000" />
+      <workItem from="1523769486881" duration="4468000" />
+      <workItem from="1523796398359" duration="491000" />
+      <workItem from="1523873732792" duration="320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34850000" />
+    <option name="totallyTimeSpent" value="118612000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22198732" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32965517" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27448276" />
@@ -135,26 +185,8 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22198732" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27448276" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -162,7 +194,40 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/codechef/AVGPR/avgpair.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/AVGPR/output.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/AVGPR/input.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/GOODPREF/prefix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodeJam18 QA/troubleShort.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -194,13 +259,6 @@
         <state relative-caret-position="-113" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam16 QA/countingSheep/countingSheep.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeJam16 QA/revengeOfThePancake/small-output.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1092" />
@@ -209,13 +267,6 @@
     <entry file="file://$PROJECT_DIR$/CodeJam16 QA/revengeOfThePancake/large-output.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1092" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam16 QA/revengeOfThePancake/revenge.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeJam17 QA/oversizedFlipper/small-output.out">
@@ -239,27 +290,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam17 QA/oversizedFlipper/oversizedFlipper.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam18 QA/cubicUFO.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam18 QA/troubleShort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeJam18 QA/output.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -276,8 +306,170 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeJam18 QA/saveUniverse.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="137">
+          <caret line="45" column="49" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeJam18 QA/troubleShort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="49" column="227" selection-start-line="49" selection-start-column="227" selection-end-line="49" selection-end-column="227" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeJam18 QA/cubicUFO.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeJam17 QA/oversizedFlipper/oversizedFlipper.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeJam16 QA/revengeOfThePancake/revenge.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeJam16 QA/countingSheep/countingSheep.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/WGHTNUM/weigth.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="47" column="65" selection-start-line="47" selection-start-column="65" selection-end-line="47" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/input.in" />
+    <entry file="file://$PROJECT_DIR$/codechef/output.in" />
+    <entry file="file://$PROJECT_DIR$/codechef/GOODPREF/prefix.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/CHEFWORK/workers.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/CHEFWORK/workers.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/AVGPR/avgpair.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/WGHTNUM/weight.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="133" selection-start-line="10" selection-start-column="133" selection-end-line="10" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/HIGHWAYC/traffic.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/HIGHWAYC/output.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/HIGHWAYC/input.in">
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-3397">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/HIGHWAYC/traffic.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="13" lean-forward="true" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/GOODPREF/prefix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/GOODPREF/small-input.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/GOODPREF/output.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/GOODPREF/input.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/AVGPR/output.in" />
+    <entry file="file://$PROJECT_DIR$/codechef/AVGPR/output.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/AVGPR/input.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/AVGPR/avgpair.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
         </state>
       </provider>
     </entry>

@@ -13,17 +13,23 @@ int main(){
     for(int p=0;p<T;p++){
         long N;
         cin>>N;
-        vector<int> A(N),table;
+        vector<long> A(N),table;
         for(long j=0;j<N;j++){
             cin>>A[j];
             table.push_back(2*A[j]);
         }
+        sort(A.begin(),A.end());
         sort(table.begin(),table.end());
         long count = 0;
         for(long i=0;i<N;i++){
-            for(long k=i+1; k<N; k++){
-                if(find(table.begin(),table.end(),A[i]+A[k]) != table.end()) count++;
+            vector<long>::iterator indx, indy;
+            indx = table.begin() + i;
+            for(long j=i+1; j<N; j++){
+                indy = table.begin()+j;
+                //if(find(indx,indy,A[i]+A[j]) != indy) count++;
+                if(binary_search(indx,indy,A[i]+A[j])) count++;
             }
+
         }
         cout<<count<<endl;
 
