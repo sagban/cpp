@@ -10,39 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85bc7b33-ac24-48e4-bbc6-11d221d135dd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/codechef/july/longChallenge/pin/input.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codechef/july/longChallenge/pin/pin.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codechef/june/BINSHFFL/binshffl.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codechef/june/NAICHEF/input.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codechef/june/NAICHEF/naichef.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codechef/june/lunchtime/input.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codechef/june/lunchtime/power.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codechef/june/lunchtime/pretty.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codechef/june/vision/input.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codechef/june/vision/vision.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/try.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kik/planet.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codechef/july/longChallenge/magic/input.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codechef/july/longChallenge/magic/magic.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codechef/july/longChallenge/minmax/input.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codechef/july/longChallenge/minmax/minmax.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codechef/july/lunchtime/force.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codechef/july/lunchtime/input.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codechef/july/lunchtime/split.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/input.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/knapsack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subseq/noOfSubOfk/input.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subseq/noOfSubOfk/seqk.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subseq/product/input.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subseq/product/sumOfSubseq.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subseq/sum/input.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subseq/sum/sumOfSubseq.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/AVGPR/avgpair" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/AVGPR/avgpair" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/AVGPR/avgpair.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/AVGPR/avgpair.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/AVGPR/avgpair.txt" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/AVGPR/avgpair.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/AVGPR/input.in" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/AVGPR/input.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/AVGPR/output.out" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/AVGPR/output.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/CHEFWORK/workers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/CHEFWORK/workers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/CHEFWORK/workers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/CHEFWORK/workers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/GOODPREF/input.in" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/GOODPREF/input.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/GOODPREF/output.in" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/GOODPREF/output.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/GOODPREF/prefix" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/GOODPREF/prefix" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/GOODPREF/prefix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/GOODPREF/prefix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/GOODPREF/prefix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/GOODPREF/prefix.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/GOODPREF/small-input.in" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/GOODPREF/small-input.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/HIGHWAYC/input.in" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/HIGHWAYC/input.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/HIGHWAYC/output.out" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/HIGHWAYC/output.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/HIGHWAYC/traffic" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/HIGHWAYC/traffic" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/HIGHWAYC/traffic.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/HIGHWAYC/traffic.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/HIGHWAYC/traffic.txt" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/HIGHWAYC/traffic.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/WGHTNUM/weight.txt" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/WGHTNUM/weight.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codechef/WGHTNUM/weigth.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/codechef/april/WGHTNUM/weigth.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,20 +36,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pin.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codechef/july/longChallenge/pin/pin.cpp">
+      <file leaf-file-name="split.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codechef/july/lunchtime/split.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="26" column="14" lean-forward="true" selection-end-line="45" />
+            <state relative-caret-position="405">
+              <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="force.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codechef/july/lunchtime/force.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="input.in" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codechef/july/longChallenge/pin/input.in">
+        <entry file="file://$PROJECT_DIR$/codechef/july/lunchtime/input.in">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -87,10 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/countingSheep.cpp" />
-        <option value="$PROJECT_DIR$/CodeJam16 QA/countingSheep/countingSheep.cpp" />
-        <option value="$PROJECT_DIR$/CodeJam16 QA/revengeOfThePancake/revenge.cpp" />
-        <option value="$PROJECT_DIR$/CodeJam17 QA/oversizedFlipper/oversizedFlipper.cpp" />
         <option value="$PROJECT_DIR$/CodeJam18 QA/input.in" />
         <option value="$PROJECT_DIR$/CodeJam18 QA/saveUniverse.cpp" />
         <option value="$PROJECT_DIR$/CodeJam18 QA/troubleShort.cpp" />
@@ -123,8 +111,25 @@
         <option value="$PROJECT_DIR$/codechef/june/lunchtime/pretty.cpp" />
         <option value="$PROJECT_DIR$/codechef/june/lunchtime/input.in" />
         <option value="$PROJECT_DIR$/codechef/june/lunchtime/power.cpp" />
-        <option value="$PROJECT_DIR$/codechef/july/longChallenge/pin/pin.cpp" />
         <option value="$PROJECT_DIR$/codechef/july/longChallenge/pin/input.in" />
+        <option value="$PROJECT_DIR$/codechef/july/longChallenge/pin/pin.cpp" />
+        <option value="$PROJECT_DIR$/text.cpp" />
+        <option value="$PROJECT_DIR$/codechef/july/longChallenge/magic/input.in" />
+        <option value="$PROJECT_DIR$/codechef/july/longChallenge/magic/magic.cpp" />
+        <option value="$PROJECT_DIR$/input.in" />
+        <option value="$PROJECT_DIR$/sumOfSubseq.cpp" />
+        <option value="$PROJECT_DIR$/subseq/product/input.in" />
+        <option value="$PROJECT_DIR$/subseq/product/sumOfSubseq.cpp" />
+        <option value="$PROJECT_DIR$/codechef/july/longChallenge/minmax/input.in" />
+        <option value="$PROJECT_DIR$/codechef/july/longChallenge/minmax/minmax.cpp" />
+        <option value="$PROJECT_DIR$/codechef/july/longChallenge/seqk.cpp" />
+        <option value="$PROJECT_DIR$/subseq/noOfSubOfk/input.in" />
+        <option value="$PROJECT_DIR$/subseq/noOfSubOfk/seqk.cpp" />
+        <option value="$PROJECT_DIR$/etc/input.in" />
+        <option value="$PROJECT_DIR$/etc/knapsack.cpp" />
+        <option value="$PROJECT_DIR$/codechef/july/lunchtime/split.cpp" />
+        <option value="$PROJECT_DIR$/codechef/july/lunchtime/force.cpp" />
+        <option value="$PROJECT_DIR$/codechef/july/lunchtime/input.in" />
       </list>
     </option>
   </component>
@@ -147,6 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,21 +176,23 @@
               <item name="cpp" type="462c0819:PsiDirectoryNode" />
               <item name="codechef" type="462c0819:PsiDirectoryNode" />
               <item name="july" type="462c0819:PsiDirectoryNode" />
-              <item name="longChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="lunchtime" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cpp" type="b2602c69:ProjectViewProjectNode" />
               <item name="cpp" type="462c0819:PsiDirectoryNode" />
               <item name="codechef" type="462c0819:PsiDirectoryNode" />
-              <item name="july" type="462c0819:PsiDirectoryNode" />
-              <item name="longChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="pin" type="462c0819:PsiDirectoryNode" />
+              <item name="june" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cpp" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,17 +203,19 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/codechef/june/vision" />
-      <recent name="$PROJECT_DIR$/codechef/june/lunchtime" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/subseq/noOfSubOfk" />
+      <recent name="$PROJECT_DIR$/subseq" />
+      <recent name="$PROJECT_DIR$/subseq/sum" />
       <recent name="$PROJECT_DIR$/codechef/july/longChallenge/pin" />
       <recent name="$PROJECT_DIR$/codechef/april" />
-      <recent name="$PROJECT_DIR$/codechef/june/NAICHEF" />
-      <recent name="$PROJECT_DIR$/codechef/AVGPR" />
-      <recent name="$PROJECT_DIR$/codechef/GOODPREF" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/codechef/july" />
+      <recent name="$PROJECT_DIR$/subseq/noOfSubOfk" />
+      <recent name="$PROJECT_DIR$/codechef/july/longChallenge/minmax" />
+      <recent name="$PROJECT_DIR$/subseq/product" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -245,12 +255,19 @@
       <workItem from="1528178283944" duration="5814000" />
       <workItem from="1528535373768" duration="3545000" />
       <workItem from="1530369792818" duration="5573000" />
-      <workItem from="1530952905872" duration="2646000" />
+      <workItem from="1530952905872" duration="5486000" />
+      <workItem from="1531238608976" duration="564000" />
+      <workItem from="1531582737491" duration="6137000" />
+      <workItem from="1531642089812" duration="5759000" />
+      <workItem from="1531843337122" duration="166000" />
+      <workItem from="1532426323354" duration="2390000" />
+      <workItem from="1532603928112" duration="370000" />
+      <workItem from="1532785574214" duration="8711000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139166000" />
+    <option name="totallyTimeSpent" value="166103000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -271,7 +288,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32965517" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29655173" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4413793" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -282,6 +299,24 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22198732" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32965517" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29655173" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -295,88 +330,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/small-output.out" />
-    <entry file="file://$PROJECT_DIR$/A-large-practice.in" />
-    <entry file="file://$PROJECT_DIR$/large-output.out" />
-    <entry file="file://$PROJECT_DIR$/countingSheep.cpp" />
-    <entry file="file://$PROJECT_DIR$/CodeJam16 QA/countingSheep/large-output.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam16 QA/revengeOfThePancake/small-output.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1092" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam16 QA/revengeOfThePancake/large-output.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1092" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam17 QA/oversizedFlipper/small-output.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam17 QA/oversizedFlipper/A-small-practice.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-118">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam17 QA/oversizedFlipper/large-output.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="87" column="11" lean-forward="true" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam18 QA/output.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam18 QA/input.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam18 QA/troubleShort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-251">
-          <caret line="49" column="227" selection-start-line="49" selection-start-column="227" selection-end-line="49" selection-end-column="227" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam18 QA/cubicUFO.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeJam16 QA/revengeOfThePancake/revenge.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codechef/april/WGHTNUM/weigth.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="47" column="65" selection-start-line="47" selection-start-column="65" selection-end-line="47" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codechef/input.in" />
     <entry file="file://$PROJECT_DIR$/codechef/output.in" />
     <entry file="file://$PROJECT_DIR$/codechef/april/GOODPREF/prefix.txt">
@@ -422,14 +375,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/codechef/april/HIGHWAYC/input.in">
-      <provider editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-3397">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-3397">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -487,13 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/etc/try.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -567,9 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codechef/june/vision/input.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/codechef/june/lunchtime/input.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -598,10 +541,126 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/july/longChallenge/magic/input.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.cpp" />
+    <entry file="file://$PROJECT_DIR$/subseq/sum/input.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subseq/sum/sumOfSubseq.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subseq/product/input.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/codechef/july/longChallenge/pin/pin.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="26" column="14" lean-forward="true" selection-end-line="45" />
+        <state relative-caret-position="288">
+          <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/july/longChallenge/minmax/input.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subseq/noOfSubOfk/input.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subseq/product/sumOfSubseq.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/july/longChallenge/magic/magic.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/july/longChallenge/minmax/minmax.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subseq/noOfSubOfk/seqk.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/input.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/try.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/knapsack.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/july/lunchtime/force.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/july/lunchtime/force.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/july/lunchtime/input.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codechef/july/lunchtime/split.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
         </state>
       </provider>
     </entry>
